@@ -1,5 +1,5 @@
 //ZAD 3,4
-//
+//nie działa do poprawy
 
 #include <stdio.h>
 #include <stdlib.h>
